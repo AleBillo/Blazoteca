@@ -1,0 +1,22 @@
+﻿<Router AppAssembly="@typeof(App).Assembly">
+    <Found Context="routeData">
+        <RouteView RouteData="@routeData" DefaultLayout="@typeof(CustomMainLayout)" />
+        <FocusOnNavigate RouteData="@routeData" Selector="h1" />
+    </Found>
+    <NotFound>
+        <PageTitle>Not found</PageTitle>
+        <LayoutView Layout="@typeof(CustomMainLayout)">
+            <div class="wrapper w-100 h-100 d-flex flex-column justify-content-center align-items-center">
+                <p role="alert" class="fs-1 fw-bolder">404 Not Found!</p>
+                <img id="imgNotFound" src="img/notfound.png" alt="404 Not Found">
+            </div>
+        </LayoutView>
+    </NotFound>
+</Router>
+
+
+<style>
+    #imgNotFound {
+        width: 10%;
+    }
+</style>

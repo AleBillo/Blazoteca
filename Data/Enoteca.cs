@@ -1,0 +1,1 @@
+namespace Blazoteca.Data;

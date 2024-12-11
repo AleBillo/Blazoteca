@@ -1,0 +1,32 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-inner {
+    max-height: 75vh;
+}
+
+.heading {
+    position: absolute;
+    text-align: center;
+    color: var(--txt-color);
+    z-index: 10;
+}
+
+.heading > h1 {
+    font-size: 4rem;
+}
+
+.heading > h4 {
+    font-size: 1.5rem;
+}
+
+.carousel-item {
+    max-height: inherit;
+}
+
+img {
+    filter: brightness(40%);
+}

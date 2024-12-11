@@ -1,0 +1,11 @@
+footer {
+    --credits-color: gainsboro;
+
+    flex-shrink: 0;
+    background-color: var(--dark-color);
+}
+
+a, p, span {
+    text-decoration: none;
+    color: gainsboro;
+}

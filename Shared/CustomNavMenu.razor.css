@@ -1,0 +1,51 @@
+* {
+    color: var(--txt-color) !important;
+}
+
+nav { flex-shrink: 0; }
+
+@media (min-width: 992px) {
+    ul.navbar-nav { gap: 2em; }
+}
+
+nav, .dropdown-menu
+{
+    background-color: var(--secondary-color) !important;
+}
+
+
+.navbar-toggler-icon {
+    filter: invert();
+}
+
+.dropdown-item:hover {
+    border-radius: .25em;
+    background-color: var(--dark-color)
+}
+
+.dropdown-item:hover,
+.navbar-nav > .nav-item:hover
+{
+    animation: 0.75s slow-highlighting forwards;
+}
+
+@keyframes slow-highlighting  {
+    to {
+        border-radius: .25em;
+        background-color: var(--dark-color)
+    }
+}
+
+button
+{
+    background-color: var(--dark-color);
+}
+
+button:hover
+{
+    background-color: var(--ultra-dark-color);
+}
+
+.badge {
+    background-color: var(--ultra-dark-color) !important;
+}

@@ -1,0 +1,270 @@
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\bin\Debug\net6.0\appsettings.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\bin\Debug\net6.0\Blazoteca.staticwebassets.runtime.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\bin\Debug\net6.0\Blazoteca.exe
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\bin\Debug\net6.0\Blazoteca.deps.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\bin\Debug\net6.0\Blazoteca.runtimeconfig.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\bin\Debug\net6.0\Blazoteca.dll
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\bin\Debug\net6.0\Blazoteca.pdb
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.csproj.AssemblyReference.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.AssemblyInfoInputs.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.AssemblyInfo.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorAssemblyInfo.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorAssemblyInfo.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\scopedcss\bundle\Blazoteca.styles.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\scopedcss\projectbundle\Blazoteca.bundle.scp.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.dll
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\refint\Blazoteca.dll
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.pdb
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.genruntimeconfig.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\ref\Blazoteca.dll
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\CustomNavMenu.razor.rz.scp.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\Hero.razor.rz.scp.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\Card.razor.rz.scp.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\scopedcss\Pages\Shop.razor.rz.scp.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\Footer.razor.rz.scp.css
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\bin\Debug\net6.0\appsettings.json
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\bin\Debug\net6.0\Blazoteca.staticwebassets.runtime.json
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\bin\Debug\net6.0\Blazoteca.exe
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\bin\Debug\net6.0\Blazoteca.deps.json
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\bin\Debug\net6.0\Blazoteca.runtimeconfig.json
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\bin\Debug\net6.0\Blazoteca.dll
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\bin\Debug\net6.0\Blazoteca.pdb
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.csproj.AssemblyReference.cache
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.AssemblyInfoInputs.cache
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.AssemblyInfo.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.csproj.CoreCompileInputs.cache
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorAssemblyInfo.cache
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorAssemblyInfo.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\scopedcss\Pages\Shop.razor.rz.scp.css
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\Card.razor.rz.scp.css
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\CustomNavMenu.razor.rz.scp.css
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\Footer.razor.rz.scp.css
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\Hero.razor.rz.scp.css
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\scopedcss\bundle\Blazoteca.styles.css
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\scopedcss\projectbundle\Blazoteca.bundle.scp.css
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.dll
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\refint\Blazoteca.dll
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.pdb
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.genruntimeconfig.cache
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\ref\Blazoteca.dll
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\bin\Debug\net6.0\Blazoteca.Views.dll
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\bin\Debug\net6.0\Blazoteca.Views.pdb
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorComponent.input.cache
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\App.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\CustomMainLayout.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Pages\Shop.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\Card.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\CustomNavMenu.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\Footer.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\Hero.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorComponent.output.cache
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Blazoteca.dll
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.TagHelpers.input.cache
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.TagHelpers.output.cache
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorCoreGenerate.cache
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\App.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Shared\CustomMainLayout.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\_Imports.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Pages\Index.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Pages\Shop.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Shared\Card.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Shared\CustomNavMenu.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Shared\Footer.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Shared\Hero.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Razor\Pages\_Layout.cshtml.g.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorTargetAssemblyInfo.cache
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorTargetAssemblyInfo.cs
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.Views.pdb
+C:\Users\nicholas.magi\Desktop\Lab. Info\Blazoteca\obj\Debug\net6.0\Blazoteca.csproj.CopyComplete
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\bin\Debug\net6.0\appsettings.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\bin\Debug\net6.0\Blazoteca.staticwebassets.runtime.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\bin\Debug\net6.0\Blazoteca.exe
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\bin\Debug\net6.0\Blazoteca.deps.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\bin\Debug\net6.0\Blazoteca.runtimeconfig.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\bin\Debug\net6.0\Blazoteca.dll
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\bin\Debug\net6.0\Blazoteca.pdb
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\bin\Debug\net6.0\Blazoteca.Views.dll
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\bin\Debug\net6.0\Blazoteca.Views.pdb
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.csproj.AssemblyReference.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.AssemblyInfoInputs.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.AssemblyInfo.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorComponent.input.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\RazorDeclaration\App.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\CustomMainLayout.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Pages\Shop.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\Card.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\CustomNavMenu.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\Footer.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\Hero.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorComponent.output.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Blazoteca.dll
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.TagHelpers.input.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.TagHelpers.output.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorCoreGenerate.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Razor\App.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Razor\Shared\CustomMainLayout.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Razor\_Imports.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Razor\Pages\Index.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Razor\Pages\Shop.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Razor\Shared\Card.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Razor\Shared\CustomNavMenu.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Razor\Shared\Footer.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Razor\Shared\Hero.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Razor\Pages\_Layout.cshtml.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorAssemblyInfo.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorAssemblyInfo.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\scopedcss\Pages\Shop.razor.rz.scp.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\Card.razor.rz.scp.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\CustomNavMenu.razor.rz.scp.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\Footer.razor.rz.scp.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\Hero.razor.rz.scp.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\scopedcss\bundle\Blazoteca.styles.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\scopedcss\projectbundle\Blazoteca.bundle.scp.css
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorTargetAssemblyInfo.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorTargetAssemblyInfo.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.Views.pdb
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.dll
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\refint\Blazoteca.dll
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.pdb
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.genruntimeconfig.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\ref\Blazoteca.dll
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\Blazoteca\obj\Debug\net6.0\Blazoteca.csproj.CopyComplete
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\bin\Debug\net6.0\Blazoteca.Views.dll
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\bin\Debug\net6.0\Blazoteca.Views.pdb
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorComponent.input.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\RazorDeclaration\App.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\CustomMainLayout.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Pages\Shop.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\Card.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\CustomNavMenu.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\Footer.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\Hero.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorComponent.output.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Blazoteca.dll
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.TagHelpers.input.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.TagHelpers.output.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorCoreGenerate.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Razor\App.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Razor\Shared\CustomMainLayout.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Razor\_Imports.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Razor\Pages\Index.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Razor\Pages\Shop.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Razor\Shared\Card.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Razor\Shared\CustomNavMenu.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Razor\Shared\Footer.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Razor\Shared\Hero.razor.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Razor\Pages\_Layout.cshtml.g.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorTargetAssemblyInfo.cache
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorTargetAssemblyInfo.cs
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.Views.pdb
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\Blazoteca.csproj.CopyComplete
+C:\Users\nicho\Desktop\Scuola\5F\Informatica\Laboratorio\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\CustomMainLayout.razor.rz.scp.css
+C:\Users\nicho\Documents\GitHub\Blazoteca\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nicho\Documents\GitHub\Blazoteca\bin\Debug\net6.0\appsettings.json
+C:\Users\nicho\Documents\GitHub\Blazoteca\bin\Debug\net6.0\Blazoteca.staticwebassets.runtime.json
+C:\Users\nicho\Documents\GitHub\Blazoteca\bin\Debug\net6.0\Blazoteca.exe
+C:\Users\nicho\Documents\GitHub\Blazoteca\bin\Debug\net6.0\Blazoteca.deps.json
+C:\Users\nicho\Documents\GitHub\Blazoteca\bin\Debug\net6.0\Blazoteca.runtimeconfig.json
+C:\Users\nicho\Documents\GitHub\Blazoteca\bin\Debug\net6.0\Blazoteca.dll
+C:\Users\nicho\Documents\GitHub\Blazoteca\bin\Debug\net6.0\Blazoteca.pdb
+C:\Users\nicho\Documents\GitHub\Blazoteca\bin\Debug\net6.0\Blazoteca.Views.dll
+C:\Users\nicho\Documents\GitHub\Blazoteca\bin\Debug\net6.0\Blazoteca.Views.pdb
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.csproj.AssemblyReference.cache
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.AssemblyInfoInputs.cache
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.AssemblyInfo.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.csproj.CoreCompileInputs.cache
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorComponent.input.cache
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\RazorDeclaration\App.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Pages\Shop.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\Card.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\CustomMainLayout.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\CustomNavMenu.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\Footer.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Shared\Hero.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorComponent.output.cache
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\RazorDeclaration\Blazoteca.dll
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.TagHelpers.input.cache
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.TagHelpers.output.cache
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorCoreGenerate.cache
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Razor\App.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Razor\_Imports.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Razor\Pages\Index.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Razor\Pages\Shop.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Razor\Shared\Card.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Razor\Shared\CustomMainLayout.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Razor\Shared\CustomNavMenu.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Razor\Shared\Footer.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Razor\Shared\Hero.razor.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Razor\Pages\_Layout.cshtml.g.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorAssemblyInfo.cache
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorAssemblyInfo.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\scopedcss\Pages\Shop.razor.rz.scp.css
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\Card.razor.rz.scp.css
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\CustomMainLayout.razor.rz.scp.css
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\CustomNavMenu.razor.rz.scp.css
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\Footer.razor.rz.scp.css
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\scopedcss\Shared\Hero.razor.rz.scp.css
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\scopedcss\bundle\Blazoteca.styles.css
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\scopedcss\projectbundle\Blazoteca.bundle.scp.css
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorTargetAssemblyInfo.cache
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.RazorTargetAssemblyInfo.cs
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.Views.pdb
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.dll
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\refint\Blazoteca.dll
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.pdb
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.genruntimeconfig.cache
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\ref\Blazoteca.dll
+C:\Users\nicho\Documents\GitHub\Blazoteca\obj\Debug\net6.0\Blazoteca.csproj.CopyComplete

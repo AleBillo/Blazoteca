@@ -1,0 +1,58 @@
+<!-- Navigation-->
+<nav class="navbar navbar-expand-lg navbar-light bg-dark">
+    <div class="container px-4 px-lg-5">
+        <a class="navbar-brand" href="" Match="NavLinkMatch.All">Blazoteca</a>
+        <button class="navbar-toggler" 
+            type="button" 
+            data-bs-toggle="collapse" 
+            data-bs-target="#navbarSupportedContent" 
+            aria-controls="navbarSupportedContent" 
+            aria-expanded="false" 
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon">
+            </span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4 d-flex">
+
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                        <span class="ms-2 ms-lg-0" aria-current="page">Home</span>
+                    </NavLink>
+                </li>
+
+                <li class="nav-item">
+                    <NavLink class="nav-link" href="chi-siamo">
+                        <span class="ms-2 ms-lg-0">Chi siamo</span>
+                    </NavLink>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <span class="ms-2 ms-lg-0 nav-link dropdown-toggle" 
+                        id="navbarDropdown" 
+                        role="button" 
+                        data-bs-toggle="dropdown" 
+                        aria-expanded="false">Shop</span>
+
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <li class="nav-item"><NavLink class="nav-link" href="shop"><span class="dropdown-item">Tutti i prodotti</span></NavLink></li>
+                        <li><hr class="dropdown-divider" /></li>
+                        <li class="nav-item"><NavLink class="nav-link" href="#"><span class="dropdown-item">I più popolari</span></NavLink></li>
+                        <li class="nav-item"><NavLink class="nav-link" href="#"><span class="dropdown-item">Nuovi arrivi</span></NavLink></li>
+                    </ul>
+                </li>
+            </ul>
+
+            <a href="carrello">
+                <form class="d-flex mb-2 mb-lg-0">
+                    <button class="btn">
+                        <i class="oi oi-cart"></i>
+                        Carrello
+                        <span class="badge bg-dark text-white ms-1 rounded-pill">0</span>
+                    </button>
+                </form>
+            </a>
+
+        </div>
+    </div>
+</nav>

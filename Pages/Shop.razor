@@ -1,0 +1,49 @@
+@page "/shop"
+
+<PageTitle>Blazoteca 5F</PageTitle>
+
+<section id="shop" class="p-4">
+    <div class="container">
+        <div class="row d-flex align-items-center justify-content-center py-5">
+            <div class="col">
+                <h2 class="fs-1 fw-bolder">Shop</h2>
+            </div>
+            <div class="col d-flex justify-content-end">
+                <form>
+                    <label for="sortby" class="pe-2">Filtra per:</label>
+                    <select id="sortby" class="form-select form-select-sm" aria-label="Sortby selection">
+                        <option selected></option>
+                        <option value="/">I più popolari</option>
+                        <option value="/">Nuovi arrivi</option>
+                        <option value="/">Prezzo (crescente)</option>
+                        <option value="/">Prezzo (decrescente)</option>
+                    </select>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+                @for(int i = 0; i < ItemsToDisplay; i++) {
+                    <div class="col col-lg-4 col-xxl-2 pt-5 d-flex justify-content-center">
+                        <Card></Card>
+                    </div>
+                }
+        </div>
+    </div>
+</section>
+
+@code{
+
+    [Parameter]
+    public int MaxItems { get; set; }
+
+    public int ItemsToDisplay { get; set; }
+
+    protected override void OnInitialized()
+    {
+        ItemsToDisplay = MaxItems == 0 ? 20 : MaxItems;
+    }
+}
+
